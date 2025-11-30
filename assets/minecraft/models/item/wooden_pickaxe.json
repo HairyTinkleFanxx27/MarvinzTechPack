@@ -1,0 +1,32 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/wooden_pickaxe"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [30, 90, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [30, -90, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [-30, 73, 0],
+			"translation": [0, 3, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-30, -105, 0],
+			"translation": [0, 3, 0]
+		},
+		"ground": {
+			"rotation": [-87.23, -0.35, -36.96],
+			"translation": [0, -3.5, 0]
+		},
+		"head": {
+			"rotation": [-93.75, -82.5, 0],
+			"translation": [0, 3.75, -6]
+		}
+	}
+}
